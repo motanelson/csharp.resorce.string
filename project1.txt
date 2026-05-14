@@ -1,0 +1,10 @@
+
+drawmain
+handlenemy
+drawenemys
+handlekeymouse
+drawplayers 
+changenetwork
+handlescore
+refreshscreen
+checkgameover
